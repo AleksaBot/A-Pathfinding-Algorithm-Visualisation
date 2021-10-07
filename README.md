@@ -1,1 +1,1 @@
-# A-Pathfinding-Algorithm-Visualisation
+# A Star-Pathfinding-Algorithm-Visualisation
